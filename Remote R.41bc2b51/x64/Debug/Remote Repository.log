@@ -1,4 +1,5 @@
 ﻿  main.cpp
   superprint.cpp
   Создание кода...
-  Remote Repository.vcxproj -> C:\Users\onast\OneDrive\Рабочий стол\LocalWorkingDirectory\Local Repository\x64\Debug\Remote Repository.exe
+  LINK : не найден или не выполнена сборка C:\Users\onast\OneDrive\Рабочий стол\person1\x64\Debug\Remote Repository.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Remote Repository.vcxproj -> C:\Users\onast\OneDrive\Рабочий стол\person1\x64\Debug\Remote Repository.exe
